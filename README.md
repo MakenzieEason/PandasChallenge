@@ -1,1 +1,2 @@
 # PandasChallenge
+This Pandas and Jupyter Notebook analysis of school district data provides a succinct overview of key metrics at district and school levels. The report covers district-wide summaries, individual school details, top and bottom-performing schools, grade-level insights, and the impact of spending and school size on academic performance. By examining budget-performance correlations and considering the influence of school size, this analysis offers valuable insights for educational decision-makers.
